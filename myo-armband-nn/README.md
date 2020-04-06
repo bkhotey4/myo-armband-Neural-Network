@@ -30,13 +30,6 @@ Each output return by 2-value array: ```[datetime, [EMG DATA]]```.<br />
 So you just need to collect 8 values with gesture from armband (if you read data 10 times/s its not a problem).
 
 In repo are collected dataset from Myo armband collected by me. Dataset contains only 5 gestures:
-```
-👍 - Ok    (1)
-✊️ - Fist  (2)
-✌️ - Like  (3)
-🤘 - Rock  (4)
-🖖 - Spock (5)
-```
 
 ## Training network
 ```sh
