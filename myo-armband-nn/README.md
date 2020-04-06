@@ -1,8 +1,5 @@
 # Archived project. No maintenance.
 
-Thanks to everyone for their valuable feedback.
-
-
 # myo-armband-nn
 Gesture recognition using [myo armband](https://www.myo.com) via neural network (tensorflow library).
 ![](https://s3.eu-central-1.amazonaws.com/serhiy/Github_repo/myo-armband-nn-logo.jpg)
